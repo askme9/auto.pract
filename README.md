@@ -1,1 +1,1 @@
-This is a repo for automation practice scenarios
+This is a repo for automation practice scenarios by me
